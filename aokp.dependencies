@@ -1,0 +1,12 @@
+[
+  {
+    "repository": "android_kernel_xiaomi_msm8953",
+    "target_path": "kernel/xiaomi/msm8953",
+    "remote" : "cm"
+  },
+  {
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "remote" : "cm"
+  }
+]
